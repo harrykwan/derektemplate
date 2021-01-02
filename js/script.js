@@ -220,34 +220,34 @@
         shadow : false,
         percentage : false,
         animation : true,
-        barColor : "#2441e7",
+        barColor : "#f96e69",
     });
     $('.progressbar2').progressBar({
         shadow : false,
         percentage : false,
         animation : true,
-        barColor : "#2441e7",
+        barColor : "#f96e69",
     });
     $('.progressbar3').progressBar({
         shadow : false,
         percentage : false,
         animation : true,
         animateTarget : true,
-        barColor : "#2441e7",
+        barColor : "#f96e69",
     });
     $('.progressbar4').progressBar({
         shadow : false,
         percentage : false,
         animation : true,
         animateTarget : true,
-        barColor : "#2441e7",
+        barColor : "#f96e69",
     });
     $('.progressbar5').progressBar({
         shadow : false,
         percentage : false,
         animation : true,
         animateTarget : true,
-        barColor : "#2441e7",
+        barColor : "#f96e69",
     });
 
     /* ----- Background Parallax ----- */

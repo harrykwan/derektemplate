@@ -52,7 +52,7 @@
   background-color: #ffffff;
 }
 .dashboard_navigationbar .dropdown-content li.active:before {
-  background-color: #2441e7;
+  background-color: #f96e69;
   bottom: 0;
   content: "";
   height: 50px;
@@ -62,7 +62,7 @@
   width: 2px;
 }
 .dashboard_navigationbar .dropdown-content li.active a{
-  color: #2441e7;
+  color: #f96e69;
 }
 .dashboard_navigationbar .dropdown a:hover {
   color: #004a97;
